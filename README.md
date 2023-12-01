@@ -1,4 +1,4 @@
-# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+![EDM 3 2 Drawing v1_page-0001](https://github.com/Mario-Viofer-J/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144979232/5e11a81f-58d8-482f-99cd-f7579b8e5144)# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -42,7 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![EDM 3 2_page-0001](https://github.com/Mario-Viofer-J/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144979232/e4a1cc14-43d0-41c2-a401-c047717ef4c6)
+![EDM 3 2 Drawing v1_page-0001](https://github.com/Mario-Viofer-J/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144979232/be7dd94f-2eda-4fcb-9d7d-42f4089a2637)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
